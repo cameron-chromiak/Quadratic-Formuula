@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539456634 source:c:\users\cameron\desktop\personal\quadratic formual\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
