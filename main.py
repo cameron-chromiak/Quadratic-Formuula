@@ -1,6 +1,5 @@
 #does quadratic formula
 #sqrt = "\u221a"
-#+-
     
 def calculateDenom(a):
     calc = a*2
